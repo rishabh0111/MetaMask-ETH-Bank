@@ -1,6 +1,9 @@
 # MetaMask ETH Bank
 ### Starter Next.js/Hardhat Project
 
+![image](https://github.com/rishabh0111/MetaMask-ETH-Bank/assets/115526596/e988135e-89db-4adb-8c86-508735e55925)
+
+
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 1. Inside the project directory, in the terminal type: npm i
