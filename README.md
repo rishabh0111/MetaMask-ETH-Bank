@@ -1,4 +1,5 @@
-# Starter Next/Hardhat Project
+# MetaMask ETH Bank
+### Starter Next/Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
